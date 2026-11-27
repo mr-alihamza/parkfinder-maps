@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "revision": "20261127T121706Z",
+  "generatedAt": "2026-11-27T12:17:06Z",
+  "baseMapPublisher": "OpenStreetMap contributors",
+  "sourceWebsite": "https://download.geofabrik.de/asia/pakistan.html",
+  "baseMapEdition": "Geofabrik Pakistan extract 2026-11-24",
+  "licenceReference": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "overtureRelease": null,
+  "regions": {
+    "punjab": [
+      {
+        "id": "lahore",
+        "name": "Lahore",
+        "districtName": "Lahore District",
+        "version": "2026.11.25.1",
+        "updatedAt": "2026-11-25T00:00:00Z",
+        "downloadUrl": "https://github.com/mr-alihamza/parkfinder-maps/releases/download/v1.0.0/lahore.parkpack",
+        "sha256": "385ba0b10c3d18deb8b5cabfc06a64eaf2b6ff8d9071de5d0c9b87092b191f83",
+        "sizeBytes": 112819330,
+        "centerLatitude": 31.5204,
+        "centerLongitude": 74.3587,
+        "baseMapEdition": "Geofabrik Pakistan extract 2026-11-24",
+        "licenceReference": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "coverageLabel": "Lahore metropolitan area plus routing buffer; vector tiles z0-z14, bounds 73.75,31.0,74.8,31.9. Field QA pending."
+      }
+    ],
+    "sindh": [],
+    "khyber-pakhtunkhwa": [],
+    "balochistan": [],
+    "islamabad-capital-territory": [],
+    "azad-jammu-kashmir": [],
+    "gilgit-baltistan": []
+  }
+}
